@@ -11,5 +11,5 @@ Step 6: Connect android device to your system (usb cable)
 Step 7: open the project by doing the following below:
 ----Select File > Open Project from the menu. 
 ----Browse to the folder where your project is located and select it
-Step 8: Open the test cases created under the TEST CASES explorer and run each of the test cases
+Step 8: Open the test case created called "Transaction Made" under the TEST CASES explorer folder "Airtime Recharge" and run each of the test cases
 Step 9: Open the Test Suite titled "Home Challenge Regression" and Run to validate the added scripts
