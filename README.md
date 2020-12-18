@@ -26,4 +26,6 @@ Step 9: Open the Test Suite titled "Home Challenge Regression" and Run to valida
 Please note: When the app automates to confirm airtime recharge transaction at step 17, kindly supply the PIN
 Due to the nature of the response screens you might experience some steps not fully executed especially the confirmation dialog which led to disabling some steps but it can fixed with time.
 
+Also kindly add the apk file to the "apk files" folder before you execute the script
+
 Thank You
